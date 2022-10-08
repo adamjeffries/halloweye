@@ -1,2 +1,3 @@
 # halloweye
-Halloween Window Display
+
+Quick Hack - Halloween Window Display
